@@ -1,7 +1,7 @@
 ## Hello, i'm Andrew 👋
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-costa-8849aa24a/), [Instagram](https://www.instagram.com/_drewcosta/), [Email](andrewcosta.contato@gmail.com), 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-costa-8849aa24a/), [Instagram](https://www.instagram.com/_drewcosta/)
 
  ##
   
