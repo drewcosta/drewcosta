@@ -1,6 +1,6 @@
 ## Hello, i'm Andrew 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Typescript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-costa-8849aa24a/), [Instagram](https://www.instagram.com/_drewcosta/)
 - 🛠 Tech Stack
 <div style="display: inline_block"><br>
