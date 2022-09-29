@@ -2,9 +2,6 @@
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-costa-8849aa24a/), [Instagram](https://www.instagram.com/_drewcosta/)
-
- ##
-  
 - 🛠 Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Drew-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
