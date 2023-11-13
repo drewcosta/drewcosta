@@ -1,6 +1,6 @@
 ## Hello, i'm Andrew 👋
 
-- 🌱 I’m currently learning Nextjs and Typescript
+- 🌱 I’m currently learning Jest
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-costa-8849aa24a/), [Instagram](https://www.instagram.com/_drewcosta/)
 - 🛠 Tech Stack
 <div style="display: inline_block"><br>
