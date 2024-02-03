@@ -30,6 +30,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/andrew-costa-8849aa24a/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/andrew-costa-8849aa24a/))
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewcosta.contato@gmail.com)](mailto:andrewcosta.contato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-costa-8849aa24a/)](https://www.linkedin.com/in/andrew-costa-8849aa24a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewcosta.contato@gmail.com)](mailto:andrewcosta.contato@gmail.com)
 
