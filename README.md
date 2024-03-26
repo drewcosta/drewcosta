@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unifor.
-- 🌱 Aprendendo mais sobre Jest.
+- 🌱 Aprendendo mais sobre Desenvolvimento Web.
 
 ## Minhas Skills
 
@@ -14,6 +14,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![Styled-components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Testing-Library](https://img.shields.io/badge/-Testing_Library-333333?style=flat&logo=testing-library)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
 
