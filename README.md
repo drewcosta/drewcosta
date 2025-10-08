@@ -22,10 +22,12 @@ Busco desenvolver aplicativos escaláveis, de fácil manutenção e intuitivos, 
 
 <h3>🖼️ Frontend</h3>
 
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=nextdotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)&nbsp;
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)&nbsp;
 ![Styled-components](https://img.shields.io/badge/-styled--components-333333?style=for-the-badge&logo=styled-components)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=for-the-badge&logo=mui)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap)&nbsp;
