@@ -35,7 +35,7 @@ Busco desenvolver aplicativos escaláveis, de fácil manutenção e intuitivos, 
 ![Testing-Library](https://img.shields.io/badge/-Testing_Library-333333?style=for-the-badge&logo=testing-library)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-333333?style=for-the-badge&logo=axios)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=1572B6)&nbsp;
 
 <h3>🤖 Backend</h3>
 
