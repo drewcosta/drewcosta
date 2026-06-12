@@ -39,7 +39,6 @@ Busco desenvolver aplicativos escaláveis, de fácil manutenção e intuitivos, 
 
 <h3>🤖 Backend</h3>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=openjdk)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=nodedotjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)&nbsp;
